@@ -28,7 +28,8 @@ O meu passatempo é cuidar do meu aquario e jogar League of legends .
 ## 🧠 Formação
 
 Cursando Eng. da computação na Faculdade Metropolitana de Manaus e estudando pela Growdev - Fullstack web
-Estudando HTML,CSS e JS
+
+*Estudando HTML,CSS e JS*
 
 ## 👩‍💻 Xp Profissional
 
