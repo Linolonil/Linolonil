@@ -21,11 +21,20 @@ class Skills extends Desenvolvedor {
 
 ```
 
-## Hobies
+## ⚡️ Hobies
 
-Atualmente meu passatempo é melhorar meu aquario e jogar League of legends.
-<img src="maokai1.jpg" alt="<Maokai"/>
+O meu passatempo é cuidar do meu aquario e jogar League of legends .
 
+## 🧠 Formação
+
+Cursando Eng. da computação na Faculdade Metropolitana de Manaus e estudando pela Growdev - Fullstack web
+Estudando HTML,CSS e JS
+
+## 👩‍💻 Xp Profissional
+
+atualmente sou operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado
+
+# 📫 Minhas redes sociais 
 <p align="left">
   <a href="#" alt="Gmail">
 <a href="mailto: linox999@gmail.com" target="_blank" subject="link HTML"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=www.linkedin.com/in/lino-bittencourt" /></a></a>
