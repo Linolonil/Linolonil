@@ -34,6 +34,10 @@ class Skills extends Desenvolvedor {
 
  <a href="https://www.instagram.com/nolix_bittencourt/" alt="Instagram" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
- </p>  
+ </p>
+ 
+ 
+ ## Hobies
+Atualmente meu passatempo é melhorar meu aquario e jogar League of legends.
  
 
