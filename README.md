@@ -3,14 +3,14 @@ import Desenvolvedor from 'Linox';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Lino Jorge';
-  area    = 'Fullstack
+  area    = 'Fullstack';
   trabalho  = 'Servitech';
-  local = 'Manaus/AM
+  local = 'Manaus/AM';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Python, JavaScript']
-  linguagem de marcação = ['HTML5, CSS3']
+  linguagens  = ['Python, JavaScript'];
+  linguagem de marcação = ['HTML5, CSS3'];
   bibliotecas  = ['Jquery'];
   frameworks = ['React, Angular'];
 }
@@ -27,10 +27,10 @@ class Skills extends Desenvolvedor {
   <a href="https://api.whatsapp.com/send?phone=5592985515439&text=Lino%20jorge%20" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/lino.jorge.18/"/></a>
+  <a href="https://www.facebook.com/lino.jorge.18/" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nolix_bittencourt/"/></a>
+  <a href="https://www.instagram.com/nolix_bittencourt/"" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=/></a>
 </p>  
 
