@@ -22,6 +22,7 @@ class Skills extends Desenvolvedor {
 ```
  ## Hobies
 Atualmente meu passatempo é melhorar meu aquario e jogar League of legends.
+<img 
 
 
 <p align="left">
