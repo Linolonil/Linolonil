@@ -30,7 +30,5 @@ class Skills extends Desenvolvedor {
   <a href="https://www.facebook.com/lino.jorge.18/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
-  <a href="https://www.instagram.com/nolix_bittencourt/"" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=/></a>
-</p>  
+ 
 
