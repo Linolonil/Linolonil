@@ -23,7 +23,7 @@ class Skills extends Desenvolvedor {
 
 ## ⚡️ Hobies
 
-O meu passatempo é cuidar do meu aquario e jogar League of legends .
+O meu passatempo é cuidar dos meus gatinhos e ler Hq's.
 
 ## 🧠 Formação
 
