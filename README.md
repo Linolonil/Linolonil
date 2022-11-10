@@ -17,7 +17,7 @@ class Skills extends Desenvolvedor {
   frameworks = ['React, Angular'];
 }
 
-for (const xp = 1 ; i > 0; i++) {
+for (const xp = 1 ; xp > 0; i++) {
 	console.log(xp);
 }
 
