@@ -50,7 +50,7 @@ atualmente sou operador de máquina com conhecimentos em computação, bastante 
   <img width="150vh";src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
  <a href="https://www.instagram.com/nolix_bittencourt/" alt="Instagram" target="_blank">
-   <img width="150vh"; src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+   <img width="150em"; src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
  </p>
  <div align="center">
   <a href="https://github.com/Linolonil">
