@@ -21,7 +21,8 @@ for (const xp = 1 ; xp > 0; i++) {
 	console.log(xp);
 }
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ 
 
 ```
 
