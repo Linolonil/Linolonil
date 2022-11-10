@@ -42,7 +42,8 @@ atualmente sou operador de máquina com conhecimentos em computação, bastante 
 # 📫 Minhas redes sociais 
 <p align="left">
   <a href="#" alt="Gmail">
-<a href="mailto: linox999@gmail.com" target="_blank" subject="link HTML"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=www.linkedin.com/in/lino-bittencourt" /></a></a>
+<a href="mailto: linox999@gmail.com" target="_blank" subject="link HTML"><img  max-width:100%;
+    height:auto;src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=www.linkedin.com/in/lino-bittencourt" /></a></a>
 
   <a href="https://www.linkedin.com/in/lino-bittencourt" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
