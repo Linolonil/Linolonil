@@ -17,13 +17,13 @@ class Skills extends Desenvolvedor {
   frameworks = ['React, Angular'];
 }
 
-
-
-```<style>
-img{
-width: 10px
+for (var xp = 1 ; i > 0; i++) {
+	console.log(xp);
 }
-<style/>
+
+
+
+```
 
 ## ⚡️ Hobies
 
