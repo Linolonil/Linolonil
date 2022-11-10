@@ -68,6 +68,6 @@ atualmente sou operador de máquina com conhecimentos em computação, bastante 
   ![Snake animation](https://github.com/Linolonil/Linolonil/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  
 
