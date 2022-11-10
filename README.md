@@ -19,7 +19,11 @@ class Skills extends Desenvolvedor {
 
 
 
-```
+```<style>
+img{
+width: 10px
+}
+<style/>
 
 ## ⚡️ Hobies
 
