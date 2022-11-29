@@ -11,8 +11,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Python, JavaScript'];
-  linguagem de marcação = ['HTML5, CSS3'];
+  linguagens  = ['python JavaScript'];
+  linguagem de marcação = ['HTML5, TypeScript'];
+  Estilização = [CSS3]
   bibliotecas  = ['Jquery'];
   frameworks = ['React, Angular'];
 }
