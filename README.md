@@ -20,19 +20,17 @@ for (const xp = 1 ; xp > 0; xp++) {
 
 ```
 
-## ⚡️ Hobies
+## ⚡️ Hobbies
 
-O meu passatempo é conhecer novas tecnologias, cuidar dos meus gatinhos e ler Hq's.
+Os meus Hobbies são: conhecer novas tecnologias, cuidar dos meus gatinhos e ler Hq's.
 
 ## 🧠 Formação
 
 Cursando Eng. da computação na Faculdade Metropolitana de Manaus e estudando pela Growdev - Fullstack web
 
-*Estudando HTML,CSS e JS*
-
 ## 👩‍💻 Xp Profissional
 
-atualmente sou operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado
+Trabalhei como operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado
 
 # 📫 Minhas redes sociais 
 <p align="left">
