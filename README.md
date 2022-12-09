@@ -14,7 +14,6 @@ class Skills extends Desenvolvedor {
   linguagens  = ['python JavaScript'];
   linguagem de marcação = ['HTML5, TypeScript'];
   Estilização = [CSS3]
-  bibliotecas  = ['Jquery'];
   frameworks = ['React, Angular'];
 }
 
