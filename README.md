@@ -14,7 +14,7 @@ class Skills extends Desenvolvedor {
   tecnologias = 'Javascript, Typescript, HTML5, CSS3, Angular, Git, Github, BootStrap'
 }
 
-for (const xp = 1 ; xp > 0; i++) {
+for (const xp = 1 ; xp > 0; xp++) {
 	console.log(xp);
 }
 
