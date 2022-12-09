@@ -11,10 +11,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScrip, Typescript'];
-  linguagem de marcação = ['HTML5, TypeScript'];
-  Estilização = [CSS3]
-  frameworks = ['React, Angular'];
+  tecnologias = 'Javascript, Typescript, HTML5, CSS3, Angular, Git, Github, BootStrap'
 }
 
 for (const xp = 1 ; xp > 0; i++) {
