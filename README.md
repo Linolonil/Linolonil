@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['python JavaScript'];
+  linguagens  = ['JavaScrip, Typescript'];
   linguagem de marcação = ['HTML5, TypeScript'];
   Estilização = [CSS3]
   frameworks = ['React, Angular'];
@@ -25,7 +25,7 @@ for (const xp = 1 ; xp > 0; i++) {
 
 ## ⚡️ Hobies
 
-O meu passatempo é cuidar dos meus gatinhos e ler Hq's.
+O meu passatempo é conhecer novas tecnologias, cuidar dos meus gatinhos e ler Hq's.
 
 ## 🧠 Formação
 
