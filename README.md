@@ -6,12 +6,12 @@ import Desenvolvedor from 'Linox';
 class SobreMim extends Desenvolvedor {
   nome     = 'Lino Jorge';
   area    = 'Fullstack';
-  trabalho  = 'Servitech';
+  trabalho  = 'CAAAM/OAB';
   local = 'Manaus/AM';
 }
 
 class Skills extends Desenvolvedor {
-  tecnologias = 'Javascript, Typescript, HTML5, CSS3, Angular, Git, Github, BootStrap'
+  tecnologias = 'Javascript, Typescript, HTML5, CSS3, React, Git, Github, Bootstrap'
 }
 
 for (const xp = 1 ; xp > 0; xp++) {
@@ -22,7 +22,7 @@ for (const xp = 1 ; xp > 0; xp++) {
 
 ## ⚡️ Hobbies
 
-Os meus Hobbies são: conhecer novas tecnologias, cuidar dos meus gatinhos e ler Hq's.
+Os meus Hobbies são: conhecer novas tecnologias, Jogar algum jogo multiplayer no pc e escutar musica em qualquer lugar.
 
 ## 🧠 Formação
 
@@ -30,7 +30,8 @@ Cursando Eng. da computação na Faculdade Metropolitana de Manaus e estudando p
 
 ## 👩‍💻 Xp Profissional
 
-Trabalhei como operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado
+Trabalhei como operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado;
+atualmente sou estágiario de T.I;
 
 # 📫 Minhas redes sociais 
 <p align="left">
