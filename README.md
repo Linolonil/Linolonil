@@ -28,6 +28,14 @@ Os meus Hobbies são: conhecer novas tecnologias, Jogar algum jogo multiplayer n
 
 Cursando Eng. da computação na Faculdade Metropolitana de Manaus e estudando pela Growdev - Fullstack web
 
+## 🧠 Linhagem favorita
+
+Javascript.
+
+## 🧠 Estudando
+
+Typescript
+
 ## 👩‍💻 Xp Profissional
 
 Trabalhei como operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado;
