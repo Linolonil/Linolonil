@@ -39,7 +39,7 @@ Typescript
 ## 👩‍💻 Xp Profissional
 
 Trabalhei como operador de máquina com conhecimentos em computação, bastante experiencia com trabalho em equipe e foco no resultado;
-atualmente sou estágiario de T.I pela CAAAM(Caixa de Assitências dos Advogados do Amazonas);
+atualmente sou técnico de T.I pela CAAAM(Caixa de Assitências dos Advogados do Amazonas);
 
 # 📫 Minhas redes sociais 
 <p align="left">
